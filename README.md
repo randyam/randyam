@@ -12,7 +12,7 @@
 </p> 
 
 - 👨‍💻 I am a Software Engineer with over 10 years of experience in designing and building distributed solutions who has a passion for learning new technologies and sharing his knowledge to the community. I learned a lot from the open-source community, and I enjoy how it encourages collaboration and knowledge sharing. 
-- 💬 Ask me about anything related to **Software-Architecture, System-Design, Microservices, Doman Driven Design and .NET**.
+- 💬 Ask me about anything related to **Software-Architecture, System-Design, Microservices, Event-Driven-Design and .NET**.
 - 🤝 I am looking to collaborate on **Microservices projects**.
 
 <h3 align="left">Connect with me:</h3>
