@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Randy Ammar</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/randy-ammar" alt="randy ammar's github stats">
-    <img src="https://img.shields.io/badge/-randyammar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randy-ammar" />
-  </a>
   <a href="https://github.com/randyammar" alt="randy ammar's github stats">
     <img src="https://img.shields.io/badge/-@randyammar-%23181717?style=flat-square&logo=github" />
   </a>
@@ -17,9 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/randy-ammar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="randy-ammar" height="30" width="40" />
-  </a>
     <a href="https://github.com/randyammar" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="randyammar" height="30" width="40" />
   </a>
